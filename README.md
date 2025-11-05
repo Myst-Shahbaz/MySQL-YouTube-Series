@@ -1,2 +1,1 @@
-# MySQL-YouTube-Series
-My-SQL Series
+# MySQL- Data Analysis and Clearning Project
